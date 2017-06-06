@@ -35,6 +35,9 @@ PFX F   0     con         .
 PFX K Y 1
 PFX K   0     pro         .
 
+PFX W Y 1
+PFX W   0     pre-        .
+
 SFX V N 2
 SFX V   e     ive        e
 SFX V   0     ive        [^e]
