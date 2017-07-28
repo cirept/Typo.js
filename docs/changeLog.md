@@ -5,6 +5,8 @@
 - CARFAX
 - unrepair/D
 - www
+- SiriusXM
+- siriusxm
 
 ## 7/27/2017
 
