@@ -8545,6 +8545,9 @@ Carey/M
 carfare/MS
 cargoes
 cargo/M
+carfinder
+CarFinder
+Carfinder
 carhopped
 carhopping
 carhop/SM
@@ -62391,3 +62394,8 @@ SL
 XSE
 XLE
 IIHS
+10K
+20K
+30K
+40K
+50K
