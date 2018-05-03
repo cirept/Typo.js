@@ -448,6 +448,7 @@ acknowledgedly
 acknowledged/U
 acknowledge/GZDRS
 acknowledger/M
+acknowledgment
 acknowledgment/SAM
 ACLU
 Ac/M
@@ -3921,6 +3922,10 @@ authoritativeness/SM
 authoritative/PY
 authority/SM
 authorization/MAS
+authorise/AGDS
+authorised/U
+authoriser/SM
+authorises/U
 authorize/AGDS
 authorized/U
 authorizer/SM
@@ -11099,6 +11104,7 @@ colorlessness/SM
 colorless/PY
 colors/EA
 color/SRDMGZJ
+colour
 colossal/Y
 Colosseum/M
 colossi
@@ -13557,6 +13563,7 @@ customer/M
 customhouse/S
 customization/SM
 customize/ZGBSRD
+customise/ZGBSRD
 custom/SMRZ
 cutaneous/Y
 cutaway/SM
@@ -18256,6 +18263,7 @@ enough
 enoughs
 enplane/DSG
 enqueue/DS
+enquiry
 enquirer/S
 enquiringly
 enrage/SDG
@@ -39855,6 +39863,7 @@ Ore/NM
 ore/NSM
 Oreo
 Orestes
+org
 organdie's
 organdy/MS
 organelle/MS
@@ -53698,7 +53707,7 @@ subrogation/M
 subroutine/SM
 subsample/MS
 subschema/MS
-subscribe/ASDG
+subscribe/AUSDG
 subscriber/SM
 subscripted/U
 subscription/MS
