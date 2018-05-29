@@ -2857,6 +2857,7 @@ approx
 approximate/XGNVYDS
 approximation/M
 approximative/Y
+appt
 appurtenance/MS
 appurtenant/S
 APR
@@ -62386,6 +62387,12 @@ SE
 -
 %FRANCHISES%/M
 %STATE_FULL_NAME%
+%DEALER_NAME%
+%STREET%
+%CITY%
+%STATE%
+%ZIP%
+-
 Xtronic
 CVT
 PDRL
