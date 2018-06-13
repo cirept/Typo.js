@@ -11202,10 +11202,7 @@ colour
 colour/S
 colour/S
 colourant/S
-colourant/S
 coloured/S
-coloured/S
-colourful/Y
 colourful/Y
 colouring
 colourize/DSG
@@ -18391,9 +18388,8 @@ enoughs
 enplane/DSG
 enqueue/DS
 enquirer/S
-enquiries
 enquiringly
-enquiry
+enquiry/S
 enrage/SDG
 enrapture/GSD
 Enrica/M
@@ -20848,8 +20844,7 @@ Fitch/M
 Fitchburg/M
 fitful/PY
 fitfulness/SM
-fitment
-fitments
+fitment/S
 fitness/USM
 fits/AK
 fit's/K
@@ -23204,7 +23199,7 @@ Giffer/M
 Giffie/M
 Gifford/M
 Giffy/M
-gifs
+gif/S
 gift/SGMD
 gifted/PY
 giftedness/M
@@ -23751,7 +23746,6 @@ gooey
 goof/SDMG
 goofiness/MS
 goofy/RPT
-Google
 Google/M
 Googleplaces
 gooier
@@ -26260,8 +26254,7 @@ Holbrook/M
 Holcomb/M
 hold/NRBSJGZ
 holdall/MS
-Holden/M
-Holdens
+Holden/MS
 holder/M
 Holder/M
 holding/IS
@@ -30932,7 +30925,7 @@ kilohm/M
 kilojoule/MS
 kiloliter/MS
 kilometer/SM
-Kilometres
+Kilometre/S
 kiloton/SM
 kilovolt/SM
 kilowatt/SM
@@ -32886,7 +32879,7 @@ litigious/PY
 litigiousness/MS
 litmus/SM
 litotes/M
-litre
+litre/S
 litter/SZGRDM
 littérateur/S
 litterbug/SM
@@ -33411,7 +33404,6 @@ LSD
 Lt/M
 ltd
 Ltd/M
-LTE
 LTE
 LTZ
 Lu/M
@@ -38498,8 +38490,7 @@ nisei
 Nisei/MS
 NISMO
 Nissa/M
-Nissan
-Nissan/M
+Nissan/MS
 NissanConnect
 NISSANUSA
 Nisse/M
@@ -40108,7 +40099,7 @@ organdy/MS
 organelle/MS
 organic/S
 organically/I
-organisations
+organisation/S
 organism/MS
 organismic
 organist/MS
@@ -49434,7 +49425,7 @@ screed/MS
 screen/RDMJSG
 screened/U
 screening/M
-screenname
+screenname/S
 screenplay/MS
 screenwriter/MS
 screw/GUSD
@@ -52419,8 +52410,7 @@ Spears
 spec/SM
 spec'd
 special/SRYP
-specialise
-specialised
+specialise/D
 specialism/MS
 specialist/MS
 specialization/SM
@@ -58194,7 +58184,6 @@ tyrannosaurus/S
 tyrannous
 tyranny/MS
 tyrant/MS
-tyre
 tyre/S
 Tyree/M
 tyreo
@@ -60815,8 +60804,7 @@ Weber/M
 Webern/M
 webfeet
 webfoot/M
-webserver
-webservers
+webserver/S
 website/S
 Webster/MS
 Websterville/M
