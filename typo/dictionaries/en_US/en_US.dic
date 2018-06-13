@@ -1,3 +1,4 @@
+
 62118
 %CITY%
 %DEALER_NAME%
@@ -13,11 +14,15 @@
 1/n1
 10K
 10k
+12k
+12K
 1st/p
 1th/tc
 2/nm
 20K
 20k
+2500HD
+2L
 2nd/p
 2th/tc
 2WD
@@ -25,16 +30,20 @@
 30K
 30k
 328i
+3500HD
 370Z
+3GB
 3rd/p
 3th/tc
 4/nm
 40K
 40k
 4G
+4G
 4th/pt
 4WD
 4WD
+4x2
 4x4
 5/nm
 50K
@@ -42,6 +51,8 @@
 535i
 5th/pt
 6/nm
+60K
+60k
 6th/pt
 7/nm
 7th/pt
@@ -725,6 +736,7 @@ Adler/M
 Adm/M
 adman/M
 admen
+Admin
 administer/GDJS
 administrable
 administrate/XSDVNG
@@ -1784,6 +1796,7 @@ Alwin/M
 Alwyn/M
 Alyce/M
 Alyda/M
+Alyn
 Alyosha/M
 Alys/M
 Alysa/M
@@ -3666,6 +3679,7 @@ ataxic/S
 ate/S
 atelier/SM
 atemporal
+ATF
 Athabasca/M
 Athabascan's
 Athabaskan/MS
@@ -4011,6 +4025,7 @@ autonomic/S
 autonomous/Y
 autonomy/MS
 autopilot/SM
+Autoplex
 autopsy/MDSG
 autoregressive
 autorepeat/GS
@@ -4689,6 +4704,7 @@ barhop/S
 barhopped
 barhopping
 Bari/M
+Barina
 baritone/MS
 barium/MS
 bark/GZDRMS
@@ -6928,6 +6944,7 @@ Brainard/SM
 braincell/S
 brainchild/M
 brainchildren
+brainer
 braininess/MS
 brainless/YP
 brainlessness/M
@@ -7929,6 +7946,7 @@ Byrom/M
 Byron/M
 Byronic
 Byronism/M
+Byrum
 bystander/SM
 byte/SM
 byway/SM
@@ -8480,6 +8498,7 @@ captaincy/MS
 caption/GSDRM
 captious/PY
 captiousness/SM
+Captiva
 captivate/XGNSD
 captivation/M
 captivator/SM
@@ -8655,6 +8674,7 @@ Carling/M
 Carlita/M
 Carlo/SM
 carload/MSG
+Carlock
 Carlota/M
 Carlotta/M
 Carlsbad/M
@@ -8816,6 +8836,7 @@ Casandra/M
 Casanova/SM
 Casar/M
 casbah/M
+Cascada
 cascade/MSDG
 Cascades/M
 cascara/MS
@@ -9253,6 +9274,7 @@ centralize/CGSD
 centralizer/SM
 centralizes/A
 centre/S
+centre/S
 centrefold's
 Centrex
 CENTREX/M
@@ -9497,6 +9519,7 @@ Chara
 charabanc/MS
 character/MDSG
 characterful
+characterise/D
 characterise/D
 characteristic/SM
 characteristically/U
@@ -11177,9 +11200,12 @@ colostomy/SM
 colostrum/SM
 colour
 colour/S
+colour/S
 colourant/S
 coloured/S
 colourful/Y
+colouring
+colourize/DSG
 Colt/M
 colt/MRS
 colter/M
@@ -12569,6 +12595,7 @@ corruptions
 corruptive/Y
 corruptness/MS
 Corry/M
+Corsa
 corsage/MS
 corsair/SM
 corset/GMDS
@@ -13118,6 +13145,7 @@ crevasse/DSMG
 Creve
 crevice/SM
 crew/DMGS
+Crewcab
 crewel/SM
 crewelwork/SM
 crewman/M
@@ -13642,6 +13670,7 @@ customariness/M
 customary/PS
 customer/M
 customhouse/S
+customisation
 customise/ZGBSRD
 customization/SM
 customize/ZGBSRD
@@ -14725,6 +14754,7 @@ demimonde/SM
 demineralization/SM
 Deming/M
 demise/DMG
+demist
 demit
 demitasse/MS
 demitted
@@ -16108,6 +16138,7 @@ Dnepr's
 Dnieper's
 Dniester/M
 Dniren/M
+DNT
 do/TZRHGJ
 DOA
 doable
@@ -17054,6 +17085,7 @@ duty/SM
 Duvalier/M
 duvet/SM
 duxes
+DVD
 Dvina/M
 Dvorák/M
 Dwain/M
@@ -17120,6 +17152,7 @@ dz
 Dzerzhinsky/M
 E
 e/FMDS
+E10
 ea
 each
 Eachelle/M
@@ -18356,7 +18389,7 @@ enplane/DSG
 enqueue/DS
 enquirer/S
 enquiringly
-enquiry
+enquiry/S
 enrage/SDG
 enrapture/GSD
 Enrica/M
@@ -18631,6 +18664,7 @@ equinox/MS
 equip/AS
 equipage/SM
 equipartition/M
+Equipe
 equipment/SM
 equipoise/GMSD
 equipotent
@@ -18911,6 +18945,7 @@ estimator/SM
 Estonia/M
 Estonian/S
 estoppal
+eStore
 Estrada/M
 estrange/DRSLG
 estrangement/SM
@@ -19702,6 +19737,7 @@ eyed/P
 eyedropper/MS
 eyeful/MS
 eyeglass/MS
+eyeing
 eyelash/MS
 eyeless
 eyelet/GSMD
@@ -20529,6 +20565,7 @@ fief/MS
 fiefdom/S
 Field/MGS
 field/ZISMR
+Fieldays
 fielded
 fielder/IM
 fielding
@@ -20807,7 +20844,7 @@ Fitch/M
 Fitchburg/M
 fitful/PY
 fitfulness/SM
-fitments
+fitment/S
 fitness/USM
 fits/AK
 fit's/K
@@ -23162,6 +23199,7 @@ Giffer/M
 Giffie/M
 Gifford/M
 Giffy/M
+gif/S
 gift/SGMD
 gifted/PY
 giftedness/M
@@ -23296,6 +23334,7 @@ Giselle/M
 Gish/M
 gist/MS
 git/M
+Github
 Giuditta/M
 Giulia/M
 Giuliano/M
@@ -23708,6 +23747,7 @@ goof/SDMG
 goofiness/MS
 goofy/RPT
 Google/M
+Googleplaces
 gooier
 gooiest
 gook/SM
@@ -24334,6 +24374,7 @@ g's
 G's
 gs/A
 GSA
+GST
 gt
 GTI
 GU
@@ -26213,7 +26254,7 @@ Holbrook/M
 Holcomb/M
 hold/NRBSJGZ
 holdall/MS
-Holden/M
+Holden/MS
 holder/M
 Holder/M
 holding/IS
@@ -26702,6 +26743,7 @@ HS
 h's
 H's
 HST
+HSV
 ht
 HTML
 Hts/M
@@ -29872,6 +29914,7 @@ jinni's
 Jinny/M
 jinrikisha/SM
 jinx/GMDS
+Jissell
 jitney/MS
 jitter/S
 jitterbug/SM
@@ -30356,6 +30399,7 @@ Kahaleel/M
 Kahlil/M
 Kahlua/M
 Kahn/M
+Kahului
 Kai/M
 Kaia/M
 Kaifeng/M
@@ -30881,6 +30925,7 @@ kilohm/M
 kilojoule/MS
 kiloliter/MS
 kilometer/SM
+Kilometre/S
 kiloton/SM
 kilovolt/SM
 kilowatt/SM
@@ -31184,6 +31229,7 @@ kohlrabi/M
 kohlrabies
 kola/SM
 Kolyma/M
+Komen
 Kommunizma/M
 Kong/M
 Kongo/M
@@ -32833,6 +32879,7 @@ litigious/PY
 litigiousness/MS
 litmus/SM
 litotes/M
+litre/S
 litter/SZGRDM
 littérateur/S
 litterbug/SM
@@ -33357,6 +33404,8 @@ LSD
 Lt/M
 ltd
 Ltd/M
+LTE
+LTZ
 Lu/M
 Luanda/M
 Luann/M
@@ -34924,6 +34973,7 @@ mayer
 Mayer/M
 mayest
 Mayfair/M
+Mayfield
 Mayflower/M
 mayflower/SM
 mayfly/MS
@@ -35662,6 +35712,7 @@ Mg/M
 MGM/M
 mgr
 Mgr
+MH
 MHz
 MI
 mi/MNX
@@ -36457,6 +36508,7 @@ MO
 mo/CSK
 Mo/MN
 moan/GSZRDM
+Moana
 moat/SMDG
 mob/MS
 mobbed
@@ -38436,10 +38488,11 @@ nirvana/MS
 Nirvana/S
 nisei
 Nisei/MS
+NISMO
 Nissa/M
-Nissan
-Nissan/M
+Nissan/MS
 NissanConnect
+NISSANUSA
 Nisse/M
 Nissie/M
 Nissy/M
@@ -39247,11 +39300,13 @@ Nyquist/M
 NYSE
 Nyssa/M
 NZ
+nz
 o
 O
 oaf/MS
 oafish/PY
 oafishness/S
+Oahu
 Oahu/M
 oak/SMN
 Oakland/M
@@ -39594,6 +39649,7 @@ officious/YP
 officiousness/MS
 offing/M
 offish
+offline
 offload/GDS
 offprint/GSDM
 offramp
@@ -39818,6 +39874,8 @@ onshore
 onside
 onsite
 onslaught/MS
+ONSTAR
+OnStar
 Ont/M
 Ontarian/S
 Ontario/M
@@ -40041,6 +40099,7 @@ organdy/MS
 organelle/MS
 organic/S
 organically/I
+organisation/S
 organism/MS
 organismic
 organist/MS
@@ -45985,6 +46044,7 @@ Raul/M
 raunchily
 raunchiness/S
 raunchy/RTP
+RAV4
 ravage/GZRSD
 ravager/M
 rave/ZGDRSJ
@@ -46090,6 +46150,7 @@ readying
 Reagan/M
 Reagen/M
 real/RSTP
+realise
 realism/U
 realisms
 realism's
@@ -46209,6 +46270,7 @@ recherché
 recherches
 recidivism/MS
 recidivist/MS
+Recieve
 Recife/M
 recipe/MS
 recipiency
@@ -48450,6 +48512,7 @@ safeguard/MDSG
 safekeeping/MS
 safeness/MS
 safeness's/U
+SaferCar
 safes
 safety/SDMG
 safflower/SM
@@ -49362,6 +49425,7 @@ screed/MS
 screen/RDMJSG
 screened/U
 screening/M
+screenname/S
 screenplay/MS
 screenwriter/MS
 screw/GUSD
@@ -49566,6 +49630,7 @@ Sebastian/M
 Sebastiano/M
 Sebastien/M
 seborrhea/SM
+Sebring
 SEC
 sec/S
 secant/SM
@@ -52345,6 +52410,7 @@ Spears
 spec/SM
 spec'd
 special/SRYP
+specialise/D
 specialism/MS
 specialist/MS
 specialization/SM
@@ -52644,6 +52710,7 @@ SportWagen
 sporty/PRT
 Sposato/M
 spot/MSC
+Spotify
 spotless/YP
 spotlessness/MS
 spotlight/GDMS
@@ -52813,6 +52880,7 @@ squirter/M
 squish/GSD
 squishy/RTP
 Sr
+SRi
 Srinagar/M
 SRO
 SRW
@@ -55337,6 +55405,7 @@ tattooist/MS
 tatty/R
 Tatum/M
 tau/SM
+Taub
 taught/AU
 taunt/ZGRDS
 taunter/M
@@ -57309,6 +57378,7 @@ travail/SMDG
 travel/SDRGZJ
 traveled/U
 traveler/M
+travelling
 travelog's
 travelogue/S
 Traver/MS
@@ -58114,8 +58184,10 @@ tyrannosaurus/S
 tyrannous
 tyranny/MS
 tyrant/MS
+tyre/S
 Tyree/M
 tyreo
+Tyres
 tyro/SM
 Tyrolean/S
 Tyrol's
@@ -59088,6 +59160,7 @@ uselessness/MS
 Usenet/M
 Usenix/M
 user/M
+username
 USG/M
 usher/SGMD
 usherette/SM
@@ -59121,6 +59194,7 @@ uterine
 uterus/M
 Utica/M
 utile/I
+Utilise
 utilitarian/S
 utilitarianism/MS
 utility/MS
@@ -59317,6 +59391,7 @@ vanish/GRSDJ
 vanisher/M
 vanishing/Y
 vanity/SM
+Vann
 Vanna/M
 vanned
 Vanni/M
@@ -59423,6 +59498,7 @@ VCR
 VD
 VDT
 VDU
+ve
 veal/MRDGS
 vealed/A
 vealer/MA
@@ -60217,6 +60293,7 @@ voyeur/MS
 voyeurism/MS
 voyeuristic
 VP
+VPP
 vs
 V's
 VT
@@ -60611,6 +60688,7 @@ Wattenberg/M
 Watterson/M
 wattle/SDGM
 Watusi/M
+Wauchula
 Waugh/M
 Waukesha/M
 Waunona/M
@@ -60726,6 +60804,7 @@ Weber/M
 Webern/M
 webfeet
 webfoot/M
+webserver/S
 website/S
 Webster/MS
 Websterville/M
@@ -62229,6 +62308,7 @@ YWCA
 YWHA
 z/TGJ
 Z/X
+Z71
 Zabrina/M
 Zaccaria/M
 Zach/M
