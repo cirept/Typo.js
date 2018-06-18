@@ -38,6 +38,8 @@
 4/nm
 40K
 40k
+428i
+435i
 4G
 4G
 4th/pt
@@ -47,7 +49,6 @@
 4x2
 4x4
 4x4i
-5mm
 5/nm
 50K
 50k
@@ -56,9 +57,11 @@
 6/nm
 60K
 60k
+650SD
 6L
 6th/pt
 7/nm
+750SD
 7th/pt
 8/nm
 8th/pt
@@ -66,6 +69,7 @@
 9th/pt
 a
 A
+A4
 AA
 AAA
 Aachen/M
@@ -356,6 +360,7 @@ accessibility/IMS
 accessible/IU
 accessibly/I
 accession/SMDG
+accessorize
 accessors
 accessory/SM
 accidence/M
@@ -10760,6 +10765,7 @@ clownish/PY
 clownishness/SM
 cloy/DSG
 cloying/Y
+CLS
 club/MS
 clubbed/M
 clubbing/M
@@ -13308,6 +13314,7 @@ crossproduct/S
 crossroad/GSM
 crossroads/M
 crosstalk/M
+Crosstour
 crosstown
 Crosstrek
 crosswalk/MS
@@ -13709,6 +13716,7 @@ CVT
 CVT
 cw
 cwt
+CX
 Cy/M
 cyan/MS
 Cyanamid/M
@@ -17039,6 +17047,7 @@ durable/PS
 durableness/M
 durably
 Duracell/M
+Duramax
 Duran/M
 durance/SM
 Durand/M
@@ -17328,6 +17337,7 @@ eclipse/MGSD
 ecliptic/MS
 eclogue/MS
 Eco/M
+EcoBoost
 ecocide/SM
 ecol
 Ecole/M
@@ -21674,6 +21684,7 @@ fort/SM
 Fortaleza/M
 Forte
 forte/MS
+Forte5
 FORTH/M
 forthcome/JG
 forthcoming/U
@@ -22388,6 +22399,9 @@ g/VBX
 G25
 G35
 G37
+G4
+G80
+G90
 GA
 Ga/M
 gab/S
@@ -23370,6 +23384,7 @@ Gizela/M
 gizmo's
 gizzard/SM
 Gk/M
+GLA
 glacé/DGS
 glacial/Y
 glaciate/XNGDS
@@ -34733,6 +34748,7 @@ masculineness/M
 masculinity/SM
 Masefield/M
 maser/M
+Maserati
 Maseru/M
 MASH
 mash/JGZMSRD
@@ -35022,6 +35038,9 @@ Mazama/M
 Mazarin/M
 Mazatlan/M
 Mazda/M
+Mazda3
+Mazda5
+Mazda6
 maze/MGDSR
 mazed/YP
 mazedness/SM
@@ -35099,6 +35118,7 @@ MD
 Md/M
 mdse
 MDT
+MDX
 ME
 me/G
 Me/M
@@ -35744,6 +35764,7 @@ Miami/SM
 Miaplacidus/M
 miasma/SM
 miasmal
+Miata
 Mic/M
 mica/MS
 Micaela/M
@@ -37580,6 +37601,7 @@ muzzled/U
 muzzler/M
 MVP
 MW
+MX
 My/M
 my/S
 Myanmar
@@ -53648,6 +53670,7 @@ stratify/NSDGX
 stratigraphic
 stratigraphical
 stratigraphy/M
+Stratos
 stratosphere/SM
 stratospheric
 stratospherically
@@ -54985,6 +55008,7 @@ synthesize/GZSRD
 synthesized/U
 synthesizer/M
 synthesizes/A
+Synthethic
 synthetic/S
 synthetically
 syphilis/MS
@@ -57996,6 +58020,7 @@ turgidity/SM
 turgidness/M
 Turin/M
 Turing/M
+Turismo
 turk/S
 Turk/SM
 Turkestan/M
